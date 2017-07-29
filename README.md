@@ -1,3 +1,5 @@
+This Fork is made with the intention of adding EMFCompare integration to EMF4Che, which can hopefully be re-integrated into the original repository.
+
 # EMF4Che
 
 [![Build Status](https://travis-ci.org/eclipsesource/emf4che.svg?branch=master)](https://travis-ci.org/eclipsesource/emf4che)
